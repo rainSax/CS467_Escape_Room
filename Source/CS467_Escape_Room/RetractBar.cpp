@@ -80,9 +80,9 @@ float URetractBar::TotalMassOfActors() const
 	// Add their masses
 	for (AActor* Actor : OverlappingActors)
 	{
-		UE_LOG(LogTemp, Warning, TEXT("%s is in the collision volume with mass of %f"), *Actor->GetName(), Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass());
+		// UE_LOG(LogTemp, Warning, TEXT("%s is in the collision volume with mass of %f"), *Actor->GetName(), Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass());
 		TotalMass += Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
-		UE_LOG(LogTemp, Warning, TEXT("Total mass is %f"), TotalMass);
+		// UE_LOG(LogTemp, Warning, TEXT("Total mass is %f"), TotalMass);
 	}
 
 	return TotalMass;

@@ -38,7 +38,7 @@ private:
 		ATriggerVolume* PressurePlate;
 
 	UPROPERTY(EditAnywhere)
-		float MassToOpenBars = 50.f;
+		float MassToOpenBars = 60.f;
 
 	UPROPERTY(EditAnywhere)
 		float BarCloseDelay = .2f;

@@ -92,7 +92,7 @@ FHitResult UGrabber::GetFirstPhysicsBodyInReach() const
 		OUT Hit,
 		GetPlayersWorldPos(),
 		GetPlayerReach(),
-		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_GameTraceChannel1),
 		TraceParams
 	);
 

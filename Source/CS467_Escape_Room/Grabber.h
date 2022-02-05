@@ -21,12 +21,15 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	float Reach = 150.f;
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
 private:
-	float Reach = 150.f;
+
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 	UInputComponent* InputComponent = nullptr;
 

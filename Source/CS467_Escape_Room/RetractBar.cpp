@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+#include "RetractBar.h"
 #include "Components/PrimitiveComponent.h"
 #include "Engine/World.h"
-#include "RetractBar.h"
 
 // Sets default values for this component's properties
 URetractBar::URetractBar()

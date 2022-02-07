@@ -1,0 +1,1305 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/TexturesCom_CastleGate_1K_albedo.uasset" 4
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/TexturesCom_CastleGate_1K_albedo_Mat.uasset" 5
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/wall1_StaticMesh.uasset" 6
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/wall1_StaticMesh.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 8
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 9
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 10
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Functions/MF_Fresnel_01a.uasset" 11
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_ALB.uasset" 12
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_NRM.uasset" 13
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_RMA.uasset" 14
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_SandMask_01a_M.uasset" 15
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Functions/MF_Sand_01a.uasset" 16
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Coins_01a_H.uasset" 17
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.uasset" 18
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_Fill_01a_ALB.uasset" 19
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_Fill_01a_H.uasset" 20
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_Fill_01a_NRM.uasset" 21
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Utility/TX_Fill_01a_RMA.uasset" 22
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Masters/MM_Master_Material_01a.uasset" 23
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Band_01a_ALB.uasset" 24
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Band_01a_NRM.uasset" 25
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Band_01a_RMA.uasset" 26
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_Urn_05a.uasset" 27
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Coins_01b_ALB.uasset" 28
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Coins_01b_NRM.uasset" 29
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Coins_01b_RMA.uasset" 30
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_CoinMaterial_01c.uasset" 31
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01a.uasset" 32
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01b.uasset" 33
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01c.uasset" 34
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01d.uasset" 35
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01e.uasset" 36
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01i.uasset" 37
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Chalice_02a_ALB.uasset" 38
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Chalice_02a_RMA.uasset" 39
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_H.uasset" 40
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Fire_Tiled_cc.uasset" 41
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Light_GK_nm.uasset" 42
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Light_Line_cc.uasset" 43
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_LightFunctionShap_004.uasset" 44
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_Lamps.uasset" 45
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Flame_002_cc.uasset" 46
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_001_aorame.uasset" 47
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_001_cc.uasset" 48
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_001_em.uasset" 49
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_001_nm.uasset" 50
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_002_aorame.uasset" 51
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_002_cc.uasset" 52
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_002_nm.uasset" 53
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_DungeonLamps_Base.uasset" 54
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_008.uasset" 55
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_008_on.uasset" 56
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Fire_GK_SubUV.uasset" 57
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/Particles/M_Fire_SubUV.uasset" 58
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Water_GK_nm.uasset" 59
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/Particles/M_Heat_Distortion.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 61
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/Particles/M_Radial_Gradient.uasset" 62
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Smoke_GK_SubUV.uasset" 63
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/Particles/T_Smoke_GK_Tiled_cc.uasset" 64
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/Particles/M_smoke_subUV.uasset" 65
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Particles/P_Fire_for_Tortches_Small.uasset" 66
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Bluprints/BP_DungeonLamp_00.uasset" 67
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_LightFunctionShap_003.uasset" 68
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_Lamps_Inst_003.uasset" 69
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireTorch_SX_001.uasset" 70
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Particles/P_Fire_for_Tortches_Tiny.uasset" 71
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Bluprints/BP_DungeonLamp_02.uasset" 72
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_DungeonLamps_Base_Inst_01.uasset" 73
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_003_aorame.uasset" 74
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_003_cc.uasset" 75
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_003_nm.uasset" 76
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_004_aorame.uasset" 77
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_004_cc.uasset" 78
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_DungeonLamps_004_nme.uasset" 79
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_DungeonLamps_Base_Inst_02.uasset" 80
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_DungeonLamps_Base_Inst_03.uasset" 81
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_LightFunctionShap_001.uasset" 82
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_Lamps_Inst_001.uasset" 83
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_OverviewMapGround.uasset" 84
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_012.uasset" 85
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_014.uasset" 86
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_016_on.uasset" 87
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_018_on.uasset" 88
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireBasekd_B_001.uasset" 89
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireBasekd_B_002.uasset" 90
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireTorch_SX_002.uasset" 91
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireTorch_SX_003.uasset" 92
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_LightTop_001.uasset" 93
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_LightTop_001_on_B.uasset" 94
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_OilLamp_01.uasset" 95
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_OilLamp_01_on.uasset" 96
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Particles/P_Fire_for_Tortches.uasset" 97
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Particles/P_Fire_for_Tortches_Flame.uasset" 98
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptFuneralEquipment_01_AO.uasset" 99
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptFuneralEquipment_01_C.uasset" 100
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptFuneralEquipment_01_H.uasset" 101
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptFuneralEquipment_01_N.uasset" 102
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptFuneralEquipment_01_R.uasset" 103
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_EgyptFuneralEquipment_01.uasset" 104
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_BigVase_01.uasset" 105
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/BigVase.uasset" 106
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestBack_01.uasset" 107
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ChestLidSides_01_N.uasset" 108
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestLidSides_01.uasset" 109
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ChestLidTop_01_N.uasset" 110
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestLidTopFace_01.uasset" 111
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_EgyptComboChestLid_01.uasset" 112
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/EgyptComboChest_ChestLid.uasset" 113
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_MedVase_01.uasset" 114
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/MedVase.uasset" 115
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Inventory/InvHud.uasset" 116
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/CustomPlayerController.uasset" 117
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/InteractInterface.uasset" 118
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 119
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/InGameHUD.uasset" 120
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/GameHUD.uasset" 121
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/CustomGameMode.uasset" 122
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/ItemStructure.uasset" 123
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/SlotStructure.uasset" 124
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/StarEmitter.uasset" 125
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/ItemStarEmitter.uasset" 126
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/ItemParticleSystem.uasset" 127
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Item.uasset" 128
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Graph_Off.uasset" 129
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 130
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 131
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 132
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 133
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Completed_Gem.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Right_Off.uasset" 135
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uasset" 136
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Gem_Fragment.uasset" 137
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Inventory/InventoryTooltip.uasset" 138
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Inventory/InventorySlot.uasset" 139
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Inventory/InventoryWindow.uasset" 140
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/InventoryComponent.uasset" 141
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/HintWidget.uasset" 142
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/CrouchWidget.uasset" 143
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/DefaultPawn_BP.uasset" 144
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 145
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ShovelHandle_01_N.uasset" 146
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ShovelHandle_01.uasset" 147
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ShovelHead_01_N.uasset" 148
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ShovelHead_01.uasset" 149
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_Shovel_01.uasset" 150
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Shovel.uasset" 151
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Sand_01_N.uasset" 152
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Sand_01.uasset" 153
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_Sandpile_01.uasset" 154
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Sandpile.uasset" 155
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Sandpile.uasset" 156
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Sarcophagus_01_C.uasset" 157
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Sarcophagus_01.uasset" 158
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_SarcophagusLid_01.uasset" 159
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SarcophagusLid.uasset" 160
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/SarcophagusLid.uasset" 161
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_PuzzleWall_02_N.uasset" 162
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/PuzzleWallDerivations/M_PuzzleWall_02.uasset" 163
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_PuzzleWall_02.uasset" 164
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Scroll_01_AO.uasset" 165
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Scroll_01_C.uasset" 166
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Scroll_01_MT.uasset" 167
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Scroll_01_N.uasset" 168
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Scroll_01_R.uasset" 169
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Scroll_01.uasset" 170
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Scroll/SM_Scroll_Handle_01.uasset" 171
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Scroll/SM_Scroll_Handle_02.uasset" 172
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Scroll/SM_Scroll_Paper_01.uasset" 173
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Scroll/SM_Scroll_Roll_01.uasset" 174
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/Scroll/SM_Scroll_Roll_02.uasset" 175
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/mesh/UE4_Mannequin_Skeleton.uasset" 176
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonJump_End.uasset" 177
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonJump_Loop.uasset" 178
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonJump_Start.uasset" 179
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonRun.uasset" 180
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonSleep.uasset" 181
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonWalk.uasset" 182
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPerson_Jump.uasset" 183
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_Base_color.uasset" 184
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_Normal_DirectX.uasset" 185
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_Roughness.uasset" 186
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_mummy_AO.uasset" 187
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/materials/m_body.uasset" 188
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/mesh/sk_body_PhysicsAsset1.uasset" 189
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/mesh/sk_body.uasset" 190
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Office_Chair_A.uasset" 191
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_lamp_BC.uasset" 192
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_lamp_N.uasset" 193
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_lamp_ORM.uasset" 194
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MM_lamp.uasset" 195
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_flare_gun_BC.uasset" 196
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_flare_gun_N.uasset" 197
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_flare_gun_ORM.uasset" 198
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MI_flare_gun.uasset" 199
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SK_flare_gun_Physics.uasset" 200
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SK_flare_gun_Skeleton.uasset" 201
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SK_flare_gun.uasset" 202
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_knife_BC.uasset" 203
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_knife_N.uasset" 204
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_knife_ORM.uasset" 205
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MI_knife.uasset" 206
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_knife_01.uasset" 207
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Brass.uasset" 208
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Wood.uasset" 209
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/2x1_Door_and_Frame_Door.uasset" 210
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Broken_Concrete.uasset" 211
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/2x1_Door_and_Frame_Frame.uasset" 212
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat1_mtl_1.uasset" 213
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat1_mtl_2.uasset" 214
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat1_mtl_3.uasset" 215
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat_1__0.uasset" 216
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat2_mtl_1.uasset" 217
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat2_mtl_2.uasset" 218
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat2_mtl_3.uasset" 219
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat_2_.uasset" 220
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat_2__0.uasset" 221
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/candlestick13.uasset" 222
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick1.uasset" 223
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick10.uasset" 224
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick11.uasset" 225
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick12.uasset" 226
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick2.uasset" 227
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick3.uasset" 228
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick4.uasset" 229
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick5.uasset" 230
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick6.uasset" 231
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick7.uasset" 232
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick8.uasset" 233
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_candlestick9.uasset" 234
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/spokes.uasset" 235
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube325.uasset" 236
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube326.uasset" 237
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube327.uasset" 238
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube328.uasset" 239
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube329.uasset" 240
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube330.uasset" 241
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube331.uasset" 242
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube332.uasset" 243
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube333.uasset" 244
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCube334.uasset" 245
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/candler.uasset" 246
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder10.uasset" 247
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder11.uasset" 248
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder12.uasset" 249
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder13.uasset" 250
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder14.uasset" 251
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder15.uasset" 252
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder16.uasset" 253
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder17.uasset" 254
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder18.uasset" 255
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder19.uasset" 256
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder20.uasset" 257
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/hub_cap.uasset" 258
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/hub_lower.uasset" 259
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder5.uasset" 260
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/hub_middle.uasset" 261
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder7.uasset" 262
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/hup_top.uasset" 263
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder8.uasset" 264
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pCylinder9.uasset" 265
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/wheel.uasset" 266
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pPipe1.uasset" 267
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chain1.uasset" 268
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus1.uasset" 269
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus10.uasset" 270
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus10_1.uasset" 271
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus10_2.uasset" 272
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus10_3.uasset" 273
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus11.uasset" 274
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus11_1.uasset" 275
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus11_2.uasset" 276
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus11_3.uasset" 277
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus12.uasset" 278
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus12_1.uasset" 279
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus12_2.uasset" 280
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus12_3.uasset" 281
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus13.uasset" 282
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus13_1.uasset" 283
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus13_2.uasset" 284
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus13_3.uasset" 285
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus14.uasset" 286
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus14_1.uasset" 287
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus14_2.uasset" 288
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus14_3.uasset" 289
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus15.uasset" 290
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus15_1.uasset" 291
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus15_2.uasset" 292
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus15_3.uasset" 293
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus16.uasset" 294
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus16_1.uasset" 295
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus16_2.uasset" 296
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus16_3.uasset" 297
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus17.uasset" 298
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus17_1.uasset" 299
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus17_2.uasset" 300
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus17_3.uasset" 301
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus18.uasset" 302
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus18_1.uasset" 303
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus18_2.uasset" 304
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus18_3.uasset" 305
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus19.uasset" 306
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus19_1.uasset" 307
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus19_2.uasset" 308
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus19_3.uasset" 309
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus2.uasset" 310
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus20.uasset" 311
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus20_1.uasset" 312
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus20_2.uasset" 313
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus20_3.uasset" 314
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus21.uasset" 315
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus21_1.uasset" 316
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus21_2.uasset" 317
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus21_3.uasset" 318
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus22.uasset" 319
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus22_1.uasset" 320
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus22_2.uasset" 321
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus22_3.uasset" 322
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus23.uasset" 323
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus23_1.uasset" 324
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus23_2.uasset" 325
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus23_3.uasset" 326
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus24.uasset" 327
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus24_1.uasset" 328
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus24_2.uasset" 329
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus24_3.uasset" 330
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus25.uasset" 331
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus26.uasset" 332
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus27.uasset" 333
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus28.uasset" 334
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus3.uasset" 335
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus31.uasset" 336
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus31_1.uasset" 337
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus31_2.uasset" 338
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus32.uasset" 339
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus32_1.uasset" 340
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus32_2.uasset" 341
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus33.uasset" 342
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus33_1.uasset" 343
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus33_2.uasset" 344
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus34.uasset" 345
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus34_1.uasset" 346
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus34_2.uasset" 347
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus35.uasset" 348
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus4.uasset" 349
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus4_1.uasset" 350
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus4_2.uasset" 351
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus4_3.uasset" 352
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus5.uasset" 353
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus5_1.uasset" 354
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus5_2.uasset" 355
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus5_3.uasset" 356
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus6.uasset" 357
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus6_1.uasset" 358
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus6_2.uasset" 359
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus6_3.uasset" 360
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus7.uasset" 361
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus7_1.uasset" 362
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus7_2.uasset" 363
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus7_3.uasset" 364
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus8.uasset" 365
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus8_1.uasset" 366
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus8_2.uasset" 367
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus8_3.uasset" 368
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus9.uasset" 369
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus9_1.uasset" 370
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus9_2.uasset" 371
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/chandelier4_pTorus9_3.uasset" 372
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/SM_Door.uasset" 373
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/door.uasset" 374
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Group15825Mat.uasset" 375
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Group1799_MashalMat.uasset" 376
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Group63307Mat.uasset" 377
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/02_-_Default.uasset" 378
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/new_door_Box001.uasset" 379
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/new_door_Object001.uasset" 380
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Basic_Wall.uasset" 381
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Pillar_50x500.uasset" 382
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_500x500.uasset" 383
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_Window_400x400.uasset" 384
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Collapse02.uasset" 385
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Explosion01.uasset" 386
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Explosion02.uasset" 387
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Light01.uasset" 388
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Light01_Cue.uasset" 389
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Light02.uasset" 390
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Light02_Cue.uasset" 391
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Explosion_Cue.uasset" 392
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Burst_M.uasset" 393
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Burst.uasset" 394
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Explosion_SubUV.uasset" 395
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 396
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/m_flare_01.uasset" 397
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_radial_ramp.uasset" 398
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Smoke_SubUV.uasset" 399
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 400
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 401
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Explosion.uasset" 402
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 403
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/flame.uasset" 404
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/flame_Inst.uasset" 405
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 406
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 407
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Chair_M.uasset" 408
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Chair_N.uasset" 409
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Chair.uasset" 410
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Couch.uasset" 411
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_MaterialSphere.uasset" 412
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 413
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 414
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Shelf_M.uasset" 415
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Shelf_N.uasset" 416
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Shelf.uasset" 417
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Shelf.uasset" 418
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Basic_Floor.uasset" 419
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Stairs.uasset" 420
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Cone.uasset" 421
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Cylinder.uasset" 422
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 423
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Pipe.uasset" 424
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Pipe_90.uasset" 425
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Plane.uasset" 426
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Torus.uasset" 427
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Trim.uasset" 428
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Trim_90_In.uasset" 429
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 430
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_TriPyramid.uasset" 431
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Wedge_A.uasset" 432
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Wedge_B.uasset" 433
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Burst_M_Mat.uasset" 434
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 435
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 436
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Pebble_Mat.uasset" 437
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Fire_Tiled_D.uasset" 438
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Fire_Tiled_Mat.uasset" 439
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Steel_D.uasset" 440
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Steel_N.uasset" 441
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Steel_Mat.uasset" 442
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Basalt_D.uasset" 443
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Basalt_N.uasset" 444
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Basalt_Mat.uasset" 445
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Spark_Core.uasset" 446
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Spark_Core_Mat.uasset" 447
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Water_M.uasset" 448
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Water_M_Mat.uasset" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 450
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_OneMillion_01_N.uasset" 451
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/M_PuzzleMaterial.uasset" 452
+"../../../Engine/Content/BasicShapes/Cube.uasset" 453
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Plague/BP_SlidingPuzzle.uasset" 454
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/BP_SlidingPuzzle.uasset" 455
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/AI/BTTask_BlueprintBase_New.uasset" 456
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Plague/SlidingPuzzleController.uasset" 457
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Compass_01_N.uasset" 458
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_CompassNeedle_01_N.uasset" 459
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Egypt/CompassWidget.uasset" 460
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/CompassWidget.uasset" 461
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe1.uasset" 462
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe_close_safe_door.uasset" 463
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/safe_close_safe_door.uasset" 464
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe_close_safe_main.uasset" 465
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/safe_close_safe_main.uasset" 466
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Container.uasset" 467
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 468
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Collapse01.uasset" 469
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Bush_D.uasset" 470
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Bush_N.uasset" 471
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Bush.uasset" 472
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Bush.uasset" 473
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Herb.uasset" 474
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_TreasureChest_01_C.uasset" 475
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_TreasureChest_01_N.uasset" 476
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_TreasureChest_01.uasset" 477
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_TreasureChest_01.uasset" 478
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Fire01.uasset" 479
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Egypt/TreasureChestFragment2.uasset" 480
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Egypt/TreasureChest.uasset" 481
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/TreasureChest.uasset" 482
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/Safe.uasset" 483
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe2.uasset" 484
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe_open_safe_door.uasset" 485
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Plague/safe_open_safe_main.uasset" 486
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Item_Completed_Gem.uasset" 487
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Gem_Fragment_1.uasset" 488
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Item_Gem_Fragment_1.uasset" 489
+"../../../Engine/Content/Editor/Slate/Icons/AssetIcons/Cylinder_64x.uasset" 490
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_HapiJar_01.uasset" 491
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Hapi_Jar.uasset" 492
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Item_Hapi_Jar.uasset" 493
+"../../../Engine/Content/Engine_MI_Shaders/Textures/Bokeh.uasset" 494
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 495
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 496
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 497
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 498
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Physics_Ball.uasset" 499
+"../../../Engine/Content/Editor/Slate/Icons/AssetIcons/Cone_64x.uasset" 500
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 501
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Detail_Rocky_N.uasset" 502
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_RockMesh_M.uasset" 503
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_RockMesh_N.uasset" 504
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Rock.uasset" 505
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Rock.uasset" 506
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Rock.uasset" 507
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 508
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 509
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 510
+"../../../Engine/Content/BasicShapes/Cone.uasset" 511
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 512
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 513
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 514
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 515
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 516
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 517
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 518
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 519
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 520
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 521
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 522
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 523
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 524
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 525
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 526
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 527
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 528
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 529
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 530
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 531
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 532
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 533
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 534
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 535
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 536
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 537
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 538
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 539
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 540
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 541
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 542
+"../../../Engine/Content/EditorResources/S_Note.uasset" 543
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 544
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 545
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 546
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 547
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 548
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 549
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 550
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 551
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 552
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 553
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 554
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 555
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 556
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 557
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 558
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 559
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 560
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 561
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 562
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 563
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 564
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 565
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 566
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 567
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 568
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 569
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 570
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 571
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 572
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 573
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 574
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 575
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 576
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 577
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 578
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 579
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 580
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 581
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 582
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 583
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 584
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 585
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 587
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 588
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 589
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 590
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 591
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 592
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 593
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 594
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 595
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 596
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 597
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 598
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 600
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 601
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 602
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 603
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 604
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 605
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 606
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 607
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 608
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 609
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 610
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 611
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 612
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 613
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 614
+"../../../Engine/Content/EngineResources/Black.uasset" 615
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 616
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 617
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 618
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 619
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 620
+"../../../Engine/Content/EngineSounds/Master.uasset" 621
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 622
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 623
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 624
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 625
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 626
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 627
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 628
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 629
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 630
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 631
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 632
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 633
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 634
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 635
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 636
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 637
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 638
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 639
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 640
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 641
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 642
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 643
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 644
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 645
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 646
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 647
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 648
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 649
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 650
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 651
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 652
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 653
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 654
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 655
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 656
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 657
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 658
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 659
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 660
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 661
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 662
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 663
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 664
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 665
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 666
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 667
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 668
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 669
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 670
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 671
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 672
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 673
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 674
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 675
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 676
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 677
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 678
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 679
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 680
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 681
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 682
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_drawer_metall.uasset" 683
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_drawer_plastic.uasset" 684
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_Drawer.uasset" 685
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Metall.uasset" 686
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_Drawer_Openable_Part.uasset" 687
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Blueprints/BP_Bed_Drawer.uasset" 688
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Commode_A.uasset" 689
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Commode_M_R_AO.uasset" 690
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Commode_N.uasset" 691
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Commode.uasset" 692
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Commode.uasset" 693
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_1.uasset" 694
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Commode_Drawer_2.uasset" 695
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Blueprints/BP_Classic_Commode.uasset" 696
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Commode_2.uasset" 697
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Blueprints/BP_Classic_Commode_2.uasset" 698
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Cupboard_A.uasset" 699
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Cupboard_M_R_AO.uasset" 700
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Cupboard_N.uasset" 701
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Cupboard.uasset" 702
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Cupboard.uasset" 703
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Left.uasset" 704
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Right.uasset" 705
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Drawer.uasset" 706
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Blueprints/BP_Classic_Cupboard.uasset" 707
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Chrome.uasset" 708
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DetailTexturing.uasset" 709
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_NormalPlaceHolder.uasset" 710
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Wood_A.uasset" 711
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Wood_N.uasset" 712
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Wood_R.uasset" 713
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Modern_Cupboard.uasset" 714
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Cupboard.uasset" 715
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Cupboard_Metall.uasset" 716
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Cupboard_Sliding_Door.uasset" 717
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Blueprints/BP_Modern_Cupboard.uasset" 718
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Maps/Overview_BuiltData.uasset" 719
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_chair_a.uasset" 720
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_chair_m_r_ao.uasset" 721
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_chair_n.uasset" 722
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_chair.uasset" 723
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_Armchair_a.uasset" 724
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_Armchair_n.uasset" 725
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Leather_armchair_m_r_ao.uasset" 726
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Leather_N.uasset" 727
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Leather_armchair.uasset" 728
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_table_a.uasset" 729
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_table_m_r_ao.uasset" 730
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_table_n.uasset" 731
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_table.uasset" 732
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Elegant_chair_a.uasset" 733
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Elegant_chair_m_r_ao.uasset" 734
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Elegant_chair_n.uasset" 735
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Elegant_chair.uasset" 736
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Modern_Table_top.uasset" 737
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Round_table_a.uasset" 738
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Round_table_m_r_ao.uasset" 739
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Round_table_n.uasset" 740
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Round_table.uasset" 741
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 742
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bathtub_M.uasset" 743
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bathtub_N.uasset" 744
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bathtub.uasset" 745
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bathtub.uasset" 746
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bed_Lamp_1_Mask.uasset" 747
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_1.uasset" 748
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_Lamp_1.uasset" 749
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bed_Lamp_2_Mask.uasset" 750
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_2.uasset" 751
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_Lamp_2.uasset" 752
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_3.uasset" 753
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part.uasset" 754
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_lamp_3.uasset" 755
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 756
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 757
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 758
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_WhitePlaceHolder.uasset" 759
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MM_Tables_and_Chairs.uasset" 760
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bed_Table_Mask.uasset" 761
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Bed_Table.uasset" 762
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Bed_Table.uasset" 763
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_chair.uasset" 764
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Leather_Armchair.uasset" 765
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_sofa_a.uasset" 766
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_sofa_m_r_ao.uasset" 767
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_sofa_n.uasset" 768
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Leather_sofa.uasset" 769
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Leather_Sofa.uasset" 770
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_sofa_2_a.uasset" 771
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_Sofa_2_M_R_AO.uasset" 772
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Leather_sofa_2_n.uasset" 773
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Leather_sofa_2.uasset" 774
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Leather_sofa_2.uasset" 775
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Art_2.uasset" 776
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Art_2.uasset" 777
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Picture_A.uasset" 778
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Picture_M_R_AO.uasset" 779
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Classic_Picture_n.uasset" 780
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Classic_Picture.uasset" 781
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Picture.uasset" 782
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_Round_Table.uasset" 783
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Classic_table.uasset" 784
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Coffee_Table_M.uasset" 785
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Coffee_Table.uasset" 786
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Coffee_Table.uasset" 787
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Commode.uasset" 788
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Commode.uasset" 789
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Elegant_chair.uasset" 790
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Elegant_chair_ottoman.uasset" 791
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_A.uasset" 792
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_M_R.uasset" 793
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_N.uasset" 794
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Military_Bed.uasset" 795
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Military_Bed_Grid.uasset" 796
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_Mattress_A.uasset" 797
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_Mattress_N.uasset" 798
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Military_Bed_Mattress_R_AO.uasset" 799
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Military_Bed_Matress.uasset" 800
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Military_Bed_Matress_with_Blanket.uasset" 801
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Military_Bed.uasset" 802
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Military_Bed_2.uasset" 803
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MM_Armchair.uasset" 804
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Fabric_A.uasset" 805
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Fabric_N.uasset" 806
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Armchair_AO.uasset" 807
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Armchair_m.uasset" 808
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_modern_Armchair_N.uasset" 809
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Armchair.uasset" 810
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MM_Modern_Sofa.uasset" 811
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Sofa_2_m.uasset" 812
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Sofa_2_N.uasset" 813
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Armchair_Pillows.uasset" 814
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Armchair.uasset" 815
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MM_Modern_Bed.uasset" 816
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bed_1_Bottom_Mask.uasset" 817
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Blanket_Pattern_1.uasset" 818
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Blanket_Pattern_1_R.uasset" 819
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Bed_1_AO.uasset" 820
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Bed_1_N.uasset" 821
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Bed.uasset" 822
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MM_Modern_Bed_pillows.uasset" 823
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Bed_1_Pillows_Mask.uasset" 824
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Bed_Pillows.uasset" 825
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Bed_1.uasset" 826
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Bed_2_A.uasset" 827
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Bed_2_AO_R_M.uasset" 828
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Bed_2_N.uasset" 829
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Modern_Bed_2.uasset" 830
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Bed_2.uasset" 831
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Chair_1_AO.uasset" 832
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Chair_1_mask.uasset" 833
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Chair_1_N.uasset" 834
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Chair_1.uasset" 835
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Chair_1.uasset" 836
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Office_Chair_M.uasset" 837
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Office_Chair_M_R_AO.uasset" 838
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Office_Chair_N.uasset" 839
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Office_Chair.uasset" 840
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Office_chair.uasset" 841
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Fabric_pillow_a.uasset" 842
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Fabric_pillow_N.uasset" 843
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Noise.uasset" 844
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Sofa_1_AO.uasset" 845
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Sofa_1_mask.uasset" 846
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Sofa_1_N.uasset" 847
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Sofa_1.uasset" 848
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Sofa_1.uasset" 849
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Modern_Sofa_2_AO.uasset" 850
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/MI_Modern_Sofa_2.uasset" 851
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Sofa_2.uasset" 852
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Modern_Table_bottom.uasset" 853
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Modern_Table.uasset" 854
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_Chair_a.uasset" 855
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_Chair_m_r_ao.uasset" 856
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_Chair_N.uasset" 857
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Old_Chair.uasset" 858
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Old_Chair.uasset" 859
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_Table_a.uasset" 860
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_table_m_r_ao.uasset" 861
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Old_Table_n.uasset" 862
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Old_Table.uasset" 863
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Old_Table.uasset" 864
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Art_1.uasset" 865
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Picture.uasset" 866
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Picture_frame.uasset" 867
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Picture.uasset" 868
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Table_Lamp_A.uasset" 869
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Table_Lamp_M_R_AO.uasset" 870
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Table_Lamp_N.uasset" 871
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/T_Table_Lamp.uasset" 872
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Table_Lamp.uasset" 873
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Toilet_M.uasset" 874
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_Toilet_N.uasset" 875
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_Toilet.uasset" 876
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_Toilet.uasset" 877
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Textures/T_TV_M.uasset" 878
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Materials/M_TV.uasset" 879
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Meshes/SM_TV.uasset" 880
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/FreeFurniturePack/Maps/Overview.umap" 881
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 882
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 883
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 884
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 885
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 886
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 887
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 888
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 889
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/Skybox.uasset" 890
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 891
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 892
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/BP_LightStudio.uasset" 893
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 894
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_AssetPlatform.uasset" 895
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 896
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 897
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 898
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 899
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 900
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 901
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 902
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/SM_AssetPlatform.uasset" 903
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/Advanced_Lighting.umap" 904
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 905
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_MacroVariation.uasset" 906
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 907
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 908
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Gold_N.uasset" 909
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 910
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Copper_D.uasset" 911
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Copper.uasset" 912
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Statue_M.uasset" 913
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Statue_N.uasset" 914
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_StatueGlass.uasset" 915
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Floor_400x400.uasset" 916
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Birds01.uasset" 917
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Wind05.uasset" 918
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Wind06.uasset" 919
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Background_Cue.uasset" 920
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Chair.uasset" 921
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Statue.uasset" 922
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Statue.uasset" 923
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_TableRound_M.uasset" 924
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_TableRound_N.uasset" 925
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_TableRound.uasset" 926
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_TableRound.uasset" 927
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/Minimal_Default.umap" 928
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Fire01_Cue.uasset" 929
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Fire_SubUV.uasset" 930
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 931
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Water_N.uasset" 932
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 933
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 934
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Fire.uasset" 935
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 936
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Smoke01.uasset" 937
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Smoke01_Cue.uasset" 938
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Smoke.uasset" 939
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 940
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Fire_Sparks01.uasset" 941
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 942
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Spark.uasset" 943
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Sparks.uasset" 944
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 945
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Steam01.uasset" 946
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Steam01_Cue.uasset" 947
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Steam_Lit.uasset" 948
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 949
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Lamp_M.uasset" 950
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Lamp_N.uasset" 951
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Lamp.uasset" 952
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Lamp_Ceiling.uasset" 953
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 954
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Lamp_Wall.uasset" 955
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 956
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/StarterMap_BuiltData.uasset" 957
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 958
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 959
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 960
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 961
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 962
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 963
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 964
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 965
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 966
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Brick_Clay_New.uasset" 967
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 968
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 969
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Perlin_Noise_M.uasset" 970
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Brick_Clay_Old.uasset" 971
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 972
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 973
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 974
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 975
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 976
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 977
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 978
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 979
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 980
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 981
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 982
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 983
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 984
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 985
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 986
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Gradinet_01.uasset" 987
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 988
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_CobbleStone_Rough.uasset" 989
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 990
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 991
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 992
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 993
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Grime_D.uasset" 994
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Rust_N.uasset" 995
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Concrete_Grime.uasset" 996
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Panels_D.uasset" 997
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Panels_N.uasset" 998
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Concrete_Panels.uasset" 999
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1000
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1001
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Concrete_Poured.uasset" 1002
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1003
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1004
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1005
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1006
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Concrete_Tiles.uasset" 1007
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ground_Grass_D.uasset" 1008
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ground_Grass_N.uasset" 1009
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Ground_Grass.uasset" 1010
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1011
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1012
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Ground_Gravel.uasset" 1013
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_ground_Moss_D.uasset" 1014
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Ground_Moss_N.uasset" 1015
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Ground_Moss.uasset" 1016
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Chrome.uasset" 1017
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Gold_D.uasset" 1018
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Gold.uasset" 1019
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Metal_Rust_D.uasset" 1020
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Rust.uasset" 1021
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Metal_Steel.uasset" 1022
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Rock_Basalt.uasset" 1023
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1024
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1025
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1026
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Rock_Sandstone.uasset" 1027
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Slate_D.uasset" 1028
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Rock_Slate_N.uasset" 1029
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Rock_Slate.uasset" 1030
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Checker_Noise_M.uasset" 1031
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Single_Tile_N.uasset" 1032
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Dot_M.uasset" 1033
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Dot_N.uasset" 1034
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1035
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1036
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1037
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1038
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1039
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Panel_M.uasset" 1040
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Tech_Panel_N.uasset" 1041
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Tech_Panel.uasset" 1042
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Water_Lake.uasset" 1043
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Water_Ocean.uasset" 1044
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1045
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1046
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1047
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1048
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1049
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1050
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Oak_D.uasset" 1051
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Oak_N.uasset" 1052
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Wood_Oak.uasset" 1053
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Pine_D.uasset" 1054
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Pine_N.uasset" 1055
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Wood_Pine.uasset" 1056
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1057
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1058
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Wood_Walnut.uasset" 1059
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_400x200.uasset" 1060
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_Door_400x300.uasset" 1061
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_Window_400x300.uasset" 1062
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Collapse_Cue.uasset" 1063
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Music01.uasset" 1064
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Audio/Starter_Music_Cue.uasset" 1065
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Dust_Particle_D.uasset" 1066
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1067
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Particles/P_Ambient_Dust.uasset" 1068
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/MaterialSphere.uasset" 1069
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Frame_M.uasset" 1070
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Frame_N.uasset" 1071
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Frame.uasset" 1072
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_CornerFrame.uasset" 1073
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_DoorFrame.uasset" 1074
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Materials/M_Glass.uasset" 1075
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_GlassWindow.uasset" 1076
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_PillarFrame.uasset" 1077
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_PillarFrame300.uasset" 1078
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_WindowFrame.uasset" 1079
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Cube.uasset" 1080
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1081
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Sphere.uasset" 1082
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Maps/StarterMap.umap" 1083
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_NorthMarker.uasset" 1084
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Textures/T_LightFunctionShap_002.uasset" 1085
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Materials/M_Lamps_Inst_002.uasset" 1086
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_LightTop_001_on_A.uasset" 1087
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Bluprints/BP_DungeonLamp_01.uasset" 1088
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Papyrus_01_N.uasset" 1089
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_DialSides_01.uasset" 1090
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Eight_01_N.uasset" 1091
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Eight_01.uasset" 1092
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Five_01_N.uasset" 1093
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Five_01.uasset" 1094
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Four_01_N.uasset" 1095
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Four_01.uasset" 1096
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Nine_01_N.uasset" 1097
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Nine_01.uasset" 1098
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_One_01_N.uasset" 1099
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_One_01.uasset" 1100
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Seven_01.uasset" 1101
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Seven_01.uasset" 1102
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Six_01_N.uasset" 1103
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Six_01.uasset" 1104
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Three_01_N.uasset" 1105
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Three_01.uasset" 1106
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Two_01_N.uasset" 1107
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Two_01.uasset" 1108
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_pap-x_01_N.uasset" 1109
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_X_01.uasset" 1110
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_EgyptNumDial_01.uasset" 1111
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_ChestNumberDial.uasset" 1112
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_OneHundred_01_N.uasset" 1113
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_OneHundred_01.uasset" 1114
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_OneHundredThousand_01.uasset" 1115
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_OneHundredThousand_01.uasset" 1116
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_OneMillion_01.uasset" 1117
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_OneThousand_01_N.uasset" 1118
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_OneThousand_01.uasset" 1119
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_Ten_01_N.uasset" 1120
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Ten_01.uasset" 1121
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_TenThousand_01_N.uasset" 1122
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_TenThousand_01.uasset" 1123
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_EgyptDial_01.uasset" 1124
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_ChestDial.uasset" 1125
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_ScarabWall_01_N.uasset" 1126
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ScarabWall_01.uasset" 1127
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_ScarabWall_01.uasset" 1128
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_ExitDoor.uasset" 1129
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/demo/ThirdPersonIdle.uasset" 1130
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/AI/BB_Mummy.uasset" 1131
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/AI/BT_Mummy.uasset" 1132
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/AI/AI_Mummy.uasset" 1133
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_bandage_AO.uasset" 1134
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_bandage_Base_color.uasset" 1135
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_bandage_Normal_DirectX.uasset" 1136
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_bandage_Roughness.uasset" 1137
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/materials/m_bandage.uasset" 1138
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_bandage_Base_color.uasset" 1139
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_bandage_Normal_DirectX.uasset" 1140
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/textures/t_body_bandage_Roughness.uasset" 1141
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/materials/m_body_bandage.uasset" 1142
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/mesh/sk_mummy_PhysicsAsset.uasset" 1143
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Mummy/mesh/sk_mummy.uasset" 1144
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Mummy_Pawn.uasset" 1145
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/DetectJar.uasset" 1146
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_FireBasekd_B.uasset" 1147
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Platform.uasset" 1148
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_DuamutefJar_01.uasset" 1149
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Duamutef_Jar.uasset" 1150
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Platform_East.uasset" 1151
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Platform_North.uasset" 1152
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_ImsetyJar_01.uasset" 1153
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Imsety_Jar.uasset" 1154
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Platform_South.uasset" 1155
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_QebehsenuefJar_01.uasset" 1156
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Qebehsenuef_Jar.uasset" 1157
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/BP_Platform_West.uasset" 1158
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_PuzzleWall_01_N.uasset" 1159
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/PuzzleWallDerivations/M_PuzzleWall_01.uasset" 1160
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_PuzzleWall_03_N.uasset" 1161
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/PuzzleWallDerivations/M_PuzzleWall_03.uasset" 1162
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_PuzzleWall_04_n.uasset" 1163
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/PuzzleWallDerivations/M_PuzzleWall_04.uasset" 1164
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_PuzzleWall_05_N.uasset" 1165
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/PuzzleWallDerivations/M_PuzzleWall_05.uasset" 1166
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_PuzzleWall_01.uasset" 1167
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_PuzzleWall_01.uasset" 1168
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Blueprints/Egypt/PuzzleWalls_BP.uasset" 1169
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ChestFace_01_N.uasset" 1170
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestFace_01.uasset" 1171
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ChestSide_01_N.uasset" 1172
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestLeftFace_01.uasset" 1173
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_ChestSide_02_N.uasset" 1174
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_ChestRightFace_01.uasset" 1175
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_EgyptComboChest_01.uasset" 1176
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Containers/Egypt/TreasureChestFragment1.uasset" 1177
+"../../../Engine/Content/EditorResources/BadPylon.uasset" 1178
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_CompassBase_01.uasset" 1179
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_CompassFace_01_N.uasset" 1180
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_CompassFace_01.uasset" 1181
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_CompassBase_02.uasset" 1182
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_CompassPointer_01.uasset" 1183
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_CompassPointer_02.uasset" 1184
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Compass.uasset" 1185
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Map_01a_ALB.uasset" 1186
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Map_01a_NRM.uasset" 1187
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Map_01a_RMA.uasset" 1188
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_Map_01a.uasset" 1189
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Map_01a.uasset" 1190
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_CypherNote_01_N.uasset" 1191
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Egypt/CypherWidget.uasset" 1192
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_Cypher.uasset" 1193
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_Tablet_01.uasset" 1194
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_EgyptTablet_01_C.uasset" 1195
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/GUI/Egypt/GuardiansWidget.uasset" 1196
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Egypt/Item_GuardiansNote.uasset" 1197
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Egypt_BuiltData.uasset" 1198
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_AnubisBust_01_C.uasset" 1199
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/T_AnubisBust_01_N.uasset" 1200
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_AnubisBust_01.uasset" 1201
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Textures/Walls/T_WallHieroglyphics_01.uasset" 1202
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Materials/M_Walls_01.uasset" 1203
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1204
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1205
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Chalice_02a_NRM.uasset" 1206
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Chalice_02b_ALB.uasset" 1207
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Chalice_02b_RMA.uasset" 1208
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_Chalice_02b.uasset" 1209
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Chalice_02b.uasset" 1210
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_01a_ALB.uasset" 1211
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_01a_NRM.uasset" 1212
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_01a_RMA.uasset" 1213
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_ClayPot_01a.uasset" 1214
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_ClayPot_01.uasset" 1215
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_02a_ALB.uasset" 1216
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_02a_NRM.uasset" 1217
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_ClayPot_02a_RMA.uasset" 1218
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_ClayPot_02a.uasset" 1219
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_ClayPot_02.uasset" 1220
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01f.uasset" 1221
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01g.uasset" 1222
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Coin_Pile_01h.uasset" 1223
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Gems_01a_ALB.uasset" 1224
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Gems_01a_NRM.uasset" 1225
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Gems_01a_RMA.uasset" 1226
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_Gems_01a.uasset" 1227
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Gems_01a.uasset" 1228
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Gems_01b.uasset" 1229
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Gems_01c.uasset" 1230
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Gems_01d.uasset" 1231
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_GoldBar_02a_ALB.uasset" 1232
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_GoldBar_02a_NRM.uasset" 1233
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_GoldBar_02a_RMA.uasset" 1234
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_GoldBar_01a.uasset" 1235
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_GoldBar_01a.uasset" 1236
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Urn_01a_ALB.uasset" 1237
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Urn_01a_NRM.uasset" 1238
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_Urn_01a_RMA.uasset" 1239
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_Urn_01a.uasset" 1240
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_Urn_01a.uasset" 1241
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_WaterPot_01a_ALB.uasset" 1242
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_WaterPot_01a_NRM.uasset" 1243
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Textures/Unique/TX_WaterPot_01a_RMA.uasset" 1244
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Materials/Instances/MI_WaterPot_01a.uasset" 1245
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/AncientTreasures/Meshes/SM_WaterPot_01a.uasset" 1246
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/DungeonLamps/Meshes/SM_BaseBlock_004.uasset" 1247
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_AnubisBust_01.uasset" 1248
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_Sarcophagus_01.uasset" 1249
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_SmallVase_01.uasset" 1250
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/Egypt/Meshes/SM_Statuette_01.uasset" 1251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 1252
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_backpack_BC.uasset" 1253
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_backpack_N.uasset" 1254
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_backpack_ORM.uasset" 1255
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MM_backpack.uasset" 1256
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_backpack_02.uasset" 1257
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_flare_gun_01.uasset" 1258
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_knife_02.uasset" 1259
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MI_lamp.uasset" 1260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1262
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 1263
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MM_glass.uasset" 1264
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MI_lamp_glass.uasset" 1265
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_lamp_04.uasset" 1266
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_rope_BC.uasset" 1267
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_rope_mask.uasset" 1268
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_rope_N.uasset" 1269
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MM_rope.uasset" 1270
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_rope.uasset" 1271
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_stove_BC.uasset" 1272
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_stove_N.uasset" 1273
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/textures/T_stove_ORM.uasset" 1274
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/materials/MI_stove.uasset" 1275
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/mountaineering_props/meshes/SM_stove.uasset" 1276
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_400x300.uasset" 1277
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Egypt.umap" 1278
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Lab_BuiltData.uasset" 1279
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_400x400.uasset" 1280
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Architecture/Wall_Door_400x400.uasset" 1281
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Door_M.uasset" 1282
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Textures/T_Door_N.uasset" 1283
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/Materials/M_Door.uasset" 1284
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Props/SM_Door.uasset" 1285
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Pipe_180.uasset" 1286
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_Tube.uasset" 1287
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/StarterContent/Shapes/Shape_WideCapsule.uasset" 1288
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Lab.umap" 1289
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/InventorySystem/Items/Plague/PlagueBook.uasset" 1290
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Plague_BuiltData.uasset" 1291
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/Adeco_Radar_R13_Shelving_System_mat_1_.uasset" 1292
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/floor_StaticMesh.uasset" 1293
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/large_book_StaticMesh.uasset" 1294
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/medium_book_StaticMesh.uasset" 1295
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/roof_StaticMesh.uasset" 1296
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/small_book_StaticMesh.uasset" 1297
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/lambert1.uasset" 1298
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/torch1.uasset" 1299
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/wall3_StaticMesh.uasset" 1300
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Assets/PlagueAssets/wall4_StaticMesh.uasset" 1301
+"C:/Users/Navine/Documents/Unreal Projects/CS467_Escape_Room/Content/Scenes/Plague.umap" 1302
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1303
+"../../../Engine/Content/Maps/Entry.umap" 1304
